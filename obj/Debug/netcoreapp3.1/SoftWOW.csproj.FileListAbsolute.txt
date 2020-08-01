@@ -1,0 +1,9 @@
+D:\Projects\SoftWOW\SoftWOW\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\SoftWOW\SoftWOW\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\SoftWOW\SoftWOW\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\SoftWOW\SoftWOW\obj\Debug\netcoreapp3.1\SoftWOW.csprojAssemblyReference.cache
+D:\Projects\SoftWOW\SoftWOW\obj\Debug\netcoreapp3.1\SoftWOW.AssemblyInfoInputs.cache
+D:\Projects\SoftWOW\SoftWOW\obj\Debug\netcoreapp3.1\SoftWOW.AssemblyInfo.cs
+D:\Projects\SoftWOW\SoftWOW\obj\Debug\netcoreapp3.1\SoftWOW.RazorTargetAssemblyInfo.cache
+D:\Projects\SoftWOW\SoftWOW\obj\Debug\netcoreapp3.1\staticwebassets\SoftWOW.StaticWebAssets.Manifest.cache
+D:\Projects\SoftWOW\SoftWOW\obj\Debug\netcoreapp3.1\staticwebassets\SoftWOW.StaticWebAssets.xml

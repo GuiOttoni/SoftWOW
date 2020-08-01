@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5ip27asvMgGSKmJmOvy1kEOzR6Bgxt4dIjc8HZ4gMk4O8guerOJBIAdyFBbausgyiVWiBUlXDOJO4ptvZGYjg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SoftWOW\\SoftWOW\\SoftWOW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guiot\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
